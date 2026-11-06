@@ -1,16 +1,20 @@
 # Own Your Web: Host Websites on Your Own VPS
 
+[![Buy on Gumroad — $99](https://img.shields.io/badge/Buy_on_Gumroad-$99-00D4A0?style=for-the-badge&logo=gumroad&logoColor=white)](https://jjonesai.gumroad.com/l/yviahw)
+[![Course outline](https://img.shields.io/badge/Outline-COURSE.md-0B0F14?style=for-the-badge&logo=markdown&logoColor=00D4A0)](./COURSE.md)
+[![J Jones AI](https://img.shields.io/badge/J_Jones_AI-jjones.ai-0B0F14?style=for-the-badge)](https://jjones.ai)
+
 Stop renting your stack. Learn to host sites on **your own VPS** — domain, DNS, reverse proxy, TLS, and a hardening baseline you control.
 
 Self-paced course from [J Jones AI](https://jjones.ai) / [Malcolm Frank](https://malcolm.expert).
 
 ## Get the full course
 
-Purchase and download on Gumroad:
-
 **[Buy on Gumroad — $99](https://jjonesai.gumroad.com/l/yviahw)**
 
-Includes the lessons, checklists, and configs used in the course. This public repo is a landing page only — it does **not** contain the paid materials.
+Includes the lessons, checklists, and configs. This public repo is a landing page only — it does **not** contain the paid materials.
+
+See the public chapter map: **[COURSE.md](./COURSE.md)**
 
 ## What you’ll learn
 
